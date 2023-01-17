@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 * Github Repo Issue
 * Email: jei0486@gmail.com
+* Tech Blog: https://seulseul.tistory.com/
 
 <!--
 ![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=jei0486&show_icons=true&theme=merko)
