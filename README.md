@@ -14,7 +14,7 @@
 * Tech Blog: https://seulseul.tistory.com/
 
 ![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&count_private=true%&theme=tokyonight)
-    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeulPark)](https://github.com/jei0486/github-readme-stats)
 <!--
 ![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeulPark&show_icons=true&layout=compact&theme=tokyonight)
