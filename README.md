@@ -13,10 +13,11 @@
 * Email: jei0486@gmail.com
 * Tech Blog: https://seulseul.tistory.com/
 
-![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&count_private=true%&theme=tokyonight)
+![jei0486's github stats](https://github-readme-statistics-sad0xer.vercel.app/api?username=JinSeulPark&show_icons=true&count_private=true%&theme=tokyonight)
 
 
 <!--
+![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&count_private=true%&theme=tokyonight)
 **jei0486/jei0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
