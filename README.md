@@ -6,11 +6,22 @@
   </em>  
 </p>
 
+
+### Contacts 📫
+
+* Github Repo Issue
+* Email: jei0486@gmail.com
+* Tech Blog: https://seulseul.tistory.com/
+
+![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeulPark&layout=compact&theme=tokyonight)
 <!--
- <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
+![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&theme=merko)
+
+
 -->
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jei0486&layout=compact&theme=tokyonight)
+
+
 <!--
 **jei0486/jei0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,15 +35,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-### Contacts 📫
-
-* Github Repo Issue
-* Email: jei0486@gmail.com
-* Tech Blog: https://seulseul.tistory.com/
-
-<!--
-![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=jei0486&show_icons=true&theme=merko)
 -->
 
