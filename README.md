@@ -9,6 +9,8 @@
 <!--
  <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
 -->
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jei0486&layout=compact&theme=tokyonight)
 <!--
 **jei0486/jei0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
