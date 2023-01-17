@@ -1,4 +1,4 @@
-### Hello world!&nbsp;<img src="https://github.com/jei0486/jei0486/blob/main/earth.gif" width="25" height="25%">
+### Hello World!&nbsp;<img src="https://github.com/jei0486/jei0486/blob/main/earth.gif" width="25" height="25%">
 
 <p>
   <em>
