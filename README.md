@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="25" height="25%">
 
 <p>
@@ -8,7 +6,9 @@
   </em>  
 </p>
 
-<!--<b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. -->
+<!--
+ <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
+-->
 <!--
 **jei0486/jei0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
