@@ -1,4 +1,4 @@
-### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="25" height="25%">
+### Hello world!&nbsp;<img src="https://github.com/jei0486/jei0486/blob/main/earth.gif" width="25" height="25%">
 
 <p>
   <em>
@@ -14,12 +14,7 @@
 * Tech Blog: https://seulseul.tistory.com/
 
 ![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&count_private=true%&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeulPark)](https://github.com/jei0486/github-readme-stats)
-<!--
-![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=JinSeulPark&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeulPark&show_icons=true&layout=compact&theme=tokyonight)
-[![jei0486's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinSeulPark&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jei0486)
--->
+
 
 <!--
 **jei0486/jei0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
