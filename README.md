@@ -7,5 +7,5 @@
 <h3 align="center">👩‍ JinSeul's Github Stats 👩‍</h3>
 <div align="center">
 
-![JinSeul's github stats](https://github-readme-stats.vercel.app/api?username=jei0486&show_icons=true&theme=merko)
+![jei0486's github stats](https://github-readme-stats.vercel.app/api?username=jei0486&show_icons=true&theme=merko)
 </div>
