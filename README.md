@@ -2,6 +2,7 @@
 
 * Github Repo Issue
 * Email: jei0486@gmail.com
+* Gits : https://gist.github.com/jei0486
 * Tech Blog: https://seulseul.tistory.com/
 
 <h3 align="center">👩‍ JinSeul's Github Stats 👩‍</h3>
